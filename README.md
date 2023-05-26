@@ -13,6 +13,9 @@
 碧蓝档案同人小游戏——打砖块。  
 做这个打砖块是因为看了这个同人漫画：[链接](https://twitter.com/fuyubone/status/1655549061855068160)，然后我之前也做过打砖块：[pygame写的打砖块游戏](https://download.csdn.net/download/weixin_44025240/13995702)，所以就想做一个柚子脱衣砖块。
 
+用到的音乐：Colorful Mess, Hue, Pixel Time  
+以上音乐版权均归碧蓝档案游戏制作方所有，使用时请注意。
+
 可能会有一些莫名其妙的bug，不要在意（
 
 ## 游玩方式
